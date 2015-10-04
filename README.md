@@ -26,6 +26,7 @@ Your Answer:
 vinit@ubuntu:~/golang/jsonrpcfinal$ go run rpc_client.go 5
 You have opted for portfolio (PART 2)
 
+
 stocks -->GOOG:15:=$626.91 YHOO:325:=$30.71
 currentMarketValue -->19384.400000
 unvestedAmount -->615.600000
